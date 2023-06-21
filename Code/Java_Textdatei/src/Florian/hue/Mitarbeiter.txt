@@ -1,0 +1,4 @@
+Margot; Feuerstein; 47; Marketing; 2300
+Hannes; Zeilinger; 33; Verkauf; 3000
+Manfred; Steiner; 22; IT; 2500
+Florian; Huber; 55; Geschaeftsfuehrung; 4000

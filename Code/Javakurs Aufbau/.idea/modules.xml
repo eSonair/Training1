@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Javakurs Aufbau.iml" filepath="$PROJECT_DIR$/Javakurs Aufbau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Schiffe_versenken/Schiffe_versenken.iml" filepath="$PROJECT_DIR$/Schiffe_versenken/Schiffe_versenken.iml" />
+    </modules>
+  </component>
+</project>

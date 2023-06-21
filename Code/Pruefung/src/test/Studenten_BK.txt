@@ -1,0 +1,10 @@
+Max Hansi; Unterolberndorf; 120; 
+Manfred Steiner; Zell am See; 100; 
+Michael Nagy; Hautzendorf; 10; 
+Florian Stoiber; Wien; 180; Studium abgeschlossen 
+Thomas Morgenstern; Wien; 120; 
+Heini Luo; Wien; 180; Studium abgeschlossen
+Georg Jobaggy; Wien, 180; Studium abgeschlossen
+Franz Brunnhuber; Kronberg; 0;
+Daniel Tuchny; Schleinbach; 0;
+Gadinger Fred; Niederkreuzstetten; 0;
